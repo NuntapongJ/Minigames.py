@@ -1,6 +1,6 @@
 # Minigames.py
 
-This project is part of the 2023 5-day Sirindhorn International Institute of Technology, Thammasat University (SIIT), and Osaka Institute of Technology (OIT), international project-based learning (iPBL). 
+This project is part of the 2023 5-day Sirindhorn International Institute of Technology, Thammasat University (SIIT), and Osaka Institute of Technology (OIT), international project-based learning (iPBL). The project took place between August 27 to September 1, 2023 (In which the actual development phase only took place from 27-31 August)
 
 The project's scope is to utilize the CV2 / OpenCV Python library to create a program that benefits or solves societal problems.
 
